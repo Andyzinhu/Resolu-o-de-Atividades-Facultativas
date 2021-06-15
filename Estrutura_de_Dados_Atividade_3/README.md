@@ -1,6 +1,6 @@
 ##  Unidade 3 
 
-##Proposta de Atividade:
+**Proposta de Atividade:
 
 **Implemente um projeto no qual serão inseridos números de forma ordenada, e que atenda as especificações a seguir:** 
  
