@@ -1,6 +1,5 @@
 import java.util.Scanner;
 
-//import sun.net.www.content.text.plain;
 
 public class App {
    public static Scanner ler = new Scanner(System.in);
@@ -13,13 +12,13 @@ public class App {
         lista.qtd = 0;
         pilha pilha = new pilha();
         fila fila = new fila();
-        for(i =0; i<x;i++){ // Adiciona na lista 
+        for(i =0; i<x;i++){ // Está adicionando na lista
             addObjeto(lista);
         }
         System.out.println("Adicionando na lista");
        
         // listar(lista);//debug
-        for(i = 0; i<x; i++){//Remove na lista e inseri na pilha
+        for(i = 0; i<x; i++){//Removendo da lista e inserindo na pilha
            auxl = removeIni(lista);
           // System.out.println("Numero retorno:"+auxl);//debug
            //System.out.println("---------------------------");//debug
