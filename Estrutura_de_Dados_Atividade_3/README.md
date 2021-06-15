@@ -23,4 +23,4 @@ Proposta de Atividade:
 
 # Resposta:
 
->Ao realizar a execução do programa, pode se ver que a ordem não foi a mesma que foi inserida, oque ocorre que é que ao fazer a remoção peolo incio no passo 2, você acaba jogando os numeros no final da pilha exemplo: 1,2,3,4,5 estão na lista , ao se mandar a pilha fica da seguinte maneira 5,4,3,2,1 ao se desepilhar e eviar para fila, ira desipilhar pela seguinte ordem 5,4,3,2,1. Por este motivo a ordem sai errado. Caso a lista fosse removida pelo fim, não ocasionaria o erro da ordenação.
+>Ao realizar a execução do programa, podemos que a ordem não será a mesma da insersão, o que ocorre é que ao fazer a remoção pelo início do 2 passo, acabamos lançando os números para o final da pilha exemplo: 1,2,3,4,5 estão na lista , ao se mandar a pilha fica da seguinte ordem 5,4,3,2,1 ae ao se desempilhar e eviar para fila, ira desempilhar pela seguinte ordem 5,4,3,2,1. Por este motivo acaba que os números saem em desordem. Caso a lista fosse removida pelo fim, não ocasionaria o erro da ordenação.
